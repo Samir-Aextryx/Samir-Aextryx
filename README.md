@@ -1,106 +1,83 @@
-<h1 align="center">Hi 👋 I'm Samir Sali</h1>
-
-<p align="center"><b>ICT Fachmann @ BBB · AI & Automation Developer · Switzerland 🇨🇭</b></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=190&section=header&text=Samir%20Sali&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=ICT%20Fachmann%20%40%20BBB%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20Switzerland&descSize=16&descAlignY=60" width="100%" alt="Samir Sali" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+my+own+AI+assistant;Python+%E2%80%A2+TypeScript+%E2%80%A2+Cloudflare;Self-hosting+on+a+Raspberry+Pi" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+my+own+AI+assistant;Python+%E2%80%A2+TypeScript+%E2%80%A2+Cloudflare;Self-hosting+on+a+Raspberry+Pi" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <a href="https://samirsali.ch"><img src="https://img.shields.io/badge/samirsali.ch-21262D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:samir.sali207@gmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- LinkedIn: replace YOUR-LINKEDIN with your profile name, then delete this line and the closing line below
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
-  -->
+  <a href="https://samirsali.ch"><img src="https://img.shields.io/badge/samirsali.ch-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="mailto:samir.sali207@gmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## About Me
+<br/>
 
-I work as an **ICT Fachmann at BBB**, where I solve IT problems for teachers and students every day.
-In my free time I build my own software — from an AI desktop assistant to a self-hosted photo cloud.
+## 👨‍💻 About me
 
-- 🤖 AI assistants & automation
-- ☁️ Cloudflare & self-hosting on Raspberry Pi
-- 🌐 Websites for real businesses
-- 🔌 Embedded projects with ESP32
+I'm an **ICT Fachmann at BBB**, solving IT problems for teachers and students every day.
+After work I build my own software.
 
-## Tech Stack
+- 🔭 Currently building **JARVIS v4**, my own AI desktop assistant
+- ☁️ Self-hosting on a Raspberry Pi behind Cloudflare
+- 🌐 Making websites for real businesses
+- 🔌 Tinkering with ESP32 hardware
+
+## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,cpp,electron,threejs,vite,fastapi,nodejs,sqlite,cloudflare,raspberrypi,arduino,linux,windows,git,github,githubactions,vscode&perline=11" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,cpp,electron,fastapi,nodejs,vite,threejs,sqlite,cloudflare,raspberrypi,arduino,linux,git,githubactions&perline=9" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <b>AI tools:</b> <a href="https://github.com/anthropics">Claude</a> · <a href="https://github.com/openai">ChatGPT</a> · Ollama · whisper.cpp · llama.cpp
+  <sub><b>AI</b> &nbsp;·&nbsp; <a href="https://github.com/anthropics">Claude</a> · <a href="https://github.com/openai">ChatGPT</a> · Ollama · whisper.cpp · llama.cpp</sub>
 </p>
 
-## Featured Projects
+## 🚀 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🤖 JARVIS v4**<br/>
-AI desktop assistant for Windows, macOS & Linux.
+### 🤖 JARVIS v4
+AI desktop assistant for Windows, macOS & Linux. Voice control with a *"Hey JARVIS"* wake word, works with Claude, Gemini & Ollama.
 
-- Voice control with "Hey JARVIS" wake word
-- Works with Claude, Gemini, Ollama & more
-- Installers built with GitHub Actions
-
-<sub>Python · TypeScript · Electron · FastAPI</sub>
+`Python` `TypeScript` `Electron` `FastAPI`
 
 </td>
 <td width="50%" valign="top">
 
-**📸 Sali Photos**<br/>
-Private photo & video cloud, self-hosted at home.
+### 📸 Sali Photos
+Private photo & video cloud, self-hosted at home on a Raspberry Pi behind Cloudflare Tunnel. Uploads up to 10 GB per file.
 
-- Raspberry Pi behind Cloudflare Tunnel
-- Uploads up to 10 GB per file
-- Secure login with rate limiting
-
-<sub>JavaScript · Cloudflare · Raspberry Pi</sub>
+`JavaScript` `Cloudflare` `Raspberry Pi`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🌐 ALUTEK Website**<br/>
-Website for a real company.
+### 🌐 ALUTEK Website
+Website for a real company in three languages (MK · SQ · EN), with video hero and project gallery, deployed on Cloudflare Pages.
 
-- Three languages (MK · SQ · EN)
-- Video hero & project gallery
-- Deployed on Cloudflare Pages
-
-<sub>HTML · CSS · JavaScript · Node.js</sub>
+`HTML` `CSS` `JavaScript` `Node.js`
 
 </td>
 <td width="50%" valign="top">
 
-**🔌 ESP32 Handheld**<br/>
-Self-built device with display and buttons.
+### 🔌 ESP32 Handheld
+Self-built handheld with a 2" TFT display and 4 buttons. Live clock synced over WiFi and mini games like Flappy Bird.
 
-- 2" TFT display, 4 buttons
-- Live clock synced over WiFi
-- Mini games like Flappy Bird
-
-<sub>C++ · ESP32 · Arduino</sub>
+`C++` `ESP32` `Arduino`
 
 </td>
 </tr>
 </table>
 
-<sub>🔒 Some projects are private — happy to show a demo on request.</sub>
+<p align="center"><sub>🔒 Some projects are private — happy to show a demo on request.</sub></p>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Samir-Aextryx&theme=tokyonight&background=0D1117&border=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF" alt="GitHub streak" />
-</p>
+## 📈 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samir-Aextryx&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=Samir-Aextryx&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF" alt="GitHub streak" />
 </p>
 
 <details>
@@ -110,3 +87,5 @@ Self-built device with display and buttons.
 Ich bin **Samir Sali**, **ICT Fachmann bei BBB**. Im Job löse ich täglich IT-Probleme von Lehrpersonen und Lernenden. In meiner Freizeit baue ich eigene Software: einen KI-Assistenten, eine private Foto-Cloud, Websites für Firmen und ein ESP32-Gerät.
 
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%" alt="" />
