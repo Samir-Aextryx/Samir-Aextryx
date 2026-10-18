@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=190&section=header&text=Samir%20Sali&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=ICT%20Fachmann%20%40%20BBB%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20Switzerland&descSize=16&descAlignY=60" width="100%" alt="Samir Sali" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=190&section=header&text=Samir%20Sali&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=ICT%20Fachmann%20%40%20BBB%20%C2%B7%20AI%20and%20Automation%20%C2%B7%20Switzerland&descSize=16&descAlignY=60" width="100%" alt="Samir Sali" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+my+own+AI+assistant;Python+%E2%80%A2+TypeScript+%E2%80%A2+Cloudflare;Self-hosting+on+a+Raspberry+Pi" alt="Typing intro" />
