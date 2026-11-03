@@ -137,7 +137,7 @@ Self-built handheld with a 2" TFT display and 4 buttons. Live clock synced over 
 ## 📈 GitHub activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Samir-Aextryx&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Samir-Aextryx&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&v=2" alt="GitHub streak" />
 </p>
 
 <details>
